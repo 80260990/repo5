@@ -22,4 +22,9 @@ public class FirstClass {
         int i = 0;
         i+=10;
     }
+
+    public void test2(){
+        int j=0;
+        j+=10;
+    }
 }
